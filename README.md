@@ -45,7 +45,7 @@ BeEnabled has developed patented technologies that address real barriers faced b
 
 ## Contact
 
-Visit our [website](https://beenable d-repos.github.io) to learn more about our accessibility statement and get in touch.
+Visit our [website](https://beenabled-repos.github.io) to learn more about our accessibility statement and get in touch.
 
 ---
 
